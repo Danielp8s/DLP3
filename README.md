@@ -7,3 +7,6 @@ The Jigsaw Toxic Comments Dataset contains 150k+ comments labeled with the categ
 Data Characteristics:
 Each comment can belong to one or multiple categories.
 The dataset is imbalanced, with most comments being non-toxic.
+
+
+https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
